@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 -->
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/alperenakkaya/">
     <img src="https://img.shields.io/badge/-Alperen Akkaya-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=282A36&color=282A36">
   </a>
@@ -38,6 +38,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/youtube/channel/subscribers/UCDHW5NVudkVekc08S56uLhw?style=for-the-badge&label=%40Youtuber Ses Efektleri&logo=youtube&logoColor=CD5C5C&labelColor=282A36&color=FF4040">
   </a>
 </p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlperenAKKAYA05&show_icons=true&theme=dracula&count_private=true&hide_border=true" class="img">
+  <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlperenAKKAYA05&theme=radical&layout=compact&hide_border=true" class="img">
+</p>
 
-
-![Alperen AKKAYA's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlperenAKKAYA05&show_icons=true&theme=dracula&count_private=true&hide_border=true)
