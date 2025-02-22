@@ -39,8 +39,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlperenAKKAYA05&show_icons=true&theme=dracula&count_private=true&hide_border=true" class="img">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlperenAKKAYA99&show_icons=true&theme=dracula&count_private=true&hide_border=true" class="img">
   <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlperenAKKAYA05&theme=radical&layout=compact&hide_border=true" class="img">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlperenAKKAYA99&theme=radical&layout=compact&hide_border=true" class="img">
 </p>
 
